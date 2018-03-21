@@ -10,8 +10,6 @@ namespace StarTrianglePractice
     {
         static void Main(string[] args)
         {
-            int star = 0;
-            int num = 0;
             //as rows and stars increase by 1 and = (rows*2) +1, ending at 5.  The spaces
             //need to decrease by 1 starting at 3 and ending at 0.
             for (int row = 0; row < 6; row++)
